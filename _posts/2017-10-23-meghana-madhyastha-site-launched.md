@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Meghana Madhyastha, Horrible Cop, Launches Site"
+title: "Meghana Madhyastha"
 date: 2017-10-23
 ---
 
