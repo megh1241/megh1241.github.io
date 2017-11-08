@@ -10,6 +10,17 @@
   }
 }
 
+
+
+#topnavbar {
+    margin: 0;
+}
+#topnavbar.affix {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
 .pagination {
   margin-bottom: 15px;
 }
