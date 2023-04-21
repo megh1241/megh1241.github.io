@@ -7,3 +7,30 @@ Welcome to my website!  I am a 5th year PhD candidate in Computer Science at Joh
 
 Prior to joining JHU, I earned my BS and MS degrees at the International Institute of Information Technology, Bangalore. During my time there I spent summers at INRIA, CERN and Siemens R&D as a research intern. I'm also an open source enthusiast and I've contributed to various projects such as Boost, SymPy and the linux kernel.
 
+#### Publications
+
+<ol>
+        <li><b>M. Madhyastha</b>, R. Underwood, R. Burns, B. Nicolae. <i> A Lightweight Scalable Learning Model Repository with Fine-Grain Tensor-Level Access.</i> To appear in
+Proceedings of International Conference on Supercomputing (ICS 2023)   </a></li>
+        <li><b>M. Madhyastha</b>, K. Lillaney, J. Browne, J. Vogelstein and R. Burns. <i> BLOCKSET(Block-Aligned Serialized Trees): Reducing Inference Latency for Tree-Ensemble
+        Deployment.</i>Proceedings of the Proceedings of The 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining.[KDD 2021]</a></li>
+
+        <li><b>M. Madhyastha</b>, G. Li, V. Strnadova-Neeley, J. Browne, J. Vogelstein, R. Burns and C. Priebe. <i> Geodesic Forests.</i>
+        Proceedings of the Proceedings of The 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining.[KDD 2020]</a></li>
+        <li>S. Roy, <b>M. Madhyastha</b>, S. Lawrence and V. Ranjan. <i>Deep Learning based Method to Infer
+                Concept Prerequisite Relations from Online Educational Resources.</i>
+        <font color="blue">[IAAI 2018(co-located with AAAI-2018)</font><a href="https://drive.google.com/open?id=0B8-GCgt57VdldzdQMk9wQlhObjQ" target="_blank">[PDF]</a></li>
+        <li><b>M. Madhyastha</b>, S. Reddy and S. Rao.<i> Online Scheduling of a Fleet of Autonomous
+                Vehicles Using Agent-Based Procurement Auctions.</i>
+        Proceedings of the 2017 IEEE International
+        Conference on Service Operations and Logistics and Informatics (SOLI), IEEE Intelligent Transportation
+        Systems Society. Bari, Italy <a href="https://drive.google.com/open?id=0B8-GCgt57VdlX2dYbVU4ajlPWkk" target="_blank">[PDF]</a></li>
+        <li><b>M. Madhyastha</b> and D. Jayagopi.<i> A Low Cost Personalised Robot Language Tutor with Perceptual and Interaction
+              Capabilities.</i> Proceedings of the 13th IEEE Annual
+              India Conference (INDICON), 2016. Bangalore, India. <a href="https://drive.google.com/open?id=0B8-GCgt57VdlQ0Yzc1R5M2hGS2s" target="_blank">[PDF]</a> </li>
+</ol>
+
+#### Projects
+
+
+#### Miscellaneous Hobbies
