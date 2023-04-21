@@ -1,6 +1,0 @@
-name: Meghana Madhyastha
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
-sass:
-        sass_dir: node_modules/bootstrap-sass/assets/stylesheets
-        style: compressed
