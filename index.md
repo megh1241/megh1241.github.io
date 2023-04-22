@@ -3,12 +3,14 @@ title: About Me
 thumbnail-img: me.jpeg
 author_profile: true
 ---
+
+### Bio 
 Welcome to my website!  I am a 5th year PhD candidate in Computer Science at Johns Hopkins University. My research lies at the intersection of systems and machine learning. Specifically, I look at I/O and data movement bottlenecks in machine learning algorithms. I am fortunate to be advised by Dr Randal Burns and Dr Joshua Vogelstein. During my PhD I spent summers at Meta (2021) and Argonne National Laboratory (2022).
 
 Prior to joining JHU, I earned my BS and MS degrees at the International Institute of Information Technology, Bangalore. During my time there I spent summers at INRIA, CERN and Siemens R&D as a research intern. I'm also an open source enthusiast and I've contributed to various projects such as Boost, SymPy and the linux kernel.
-
-#### Publications
-
+Contact me at <firstname>@jhu.edu for questions / collaboration opportunities. 
+  
+### Publications
 <ol>
         <li><b>M. Madhyastha</b>, R. Underwood, R. Burns, B. Nicolae. <i> A Lightweight Scalable Learning Model Repository with Fine-Grain Tensor-Level Access.</i> To appear in
 Proceedings of International Conference on Supercomputing (ICS 2023)<a href="https://drive.google.com/file/d/1OWHNll-Gq1OrXRgHdTtePaYDxbHd51ud/view?usp=sharing" target="_blank">[PDF]   </a></li>
@@ -28,7 +30,17 @@ Proceedings of International Conference on Supercomputing (ICS 2023)<a href="htt
               India Conference (INDICON), 2016. Bangalore, India. <a href="https://drive.google.com/open?id=0B8-GCgt57VdlQ0Yzc1R5M2hGS2s" target="_blank">[PDF]</a> </li>
 </ol>
 
-#### Projects
 
+### Professional Experience
+Summer 2022: Research intern at Argonne National Laboratory
+Summer 2021: Machine learning intern at Meta
+Summer 2018: Intern at CERN
+Summer 2017: Research Intern at INRIA [Parietal Lab]
+Summer 2015: Research Intern at Siemens R&D
 
-#### Miscellaneous Hobbies
+### Teaching
+Parallel Programming  (JHU CS320/620): Teaching Assistant Spring 2020, Fall 2020, Fall 2021, Fall 2022
+
+### Miscellaneous/Hobbies
+I'm also an open source enthusiast and I've contributed to various projects such as Boost, SymPy and the linux kernel.
+Outside of research, I'm an avid outdoor enthusiast. I enjoy hiking, biking and nature walks. I'm also trained hindustani classical vocalist and obtained my junior diploma in music from Akhil Bharatiya Gandharva Mahavidyalaya Mandala. I love travelling and cooking.  
