@@ -12,7 +12,7 @@ Welcome to my website!  I am a 5th year PhD candidate in Computer Science at Joh
 
 ### Publications
 <ol>
-  R. Underwood, <li><b>M. Madhyastha</b>, R. Burns, B. Nicolae. <i> EvoStore: Towards Scalable Storage of Evolving Learning Models.</i> 
+ <li> R. Underwood, <b>M. Madhyastha</b>, R. Burns, B. Nicolae. <i> EvoStore: Towards Scalable Storage of Evolving Learning Models.</i> 
 Proceedings of International Conference on Supercomputing (HPDC 2024)<a href="https://dl.acm.org/doi/10.1145/3577193.3593730" target="_blank">[PDF]   </a></li>
         <li><b>M. Madhyastha</b>, T. Budavari, V. Braverman, J. Vogelstein and R. Burns. <i> T-Rex (Tree-Rectangles): Reformulating Decision Tree Traversal as Hyperrectangle Enclosure.</i> Proceedings of International Conference on Data Engineering (ICDE 2024)  <a href="https://ieeexplore.ieee.org/document/10597696" target="_blank">[PDF]</a></li>
  <li><b>M. Madhyastha</b>, R. Underwood, R. Burns, B. Nicolae. <i> A Lightweight Scalable Learning Model Repository with Fine-Grain Tensor-Level Access.</i> 
