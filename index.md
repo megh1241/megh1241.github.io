@@ -8,7 +8,7 @@ author_profile: true
 Welcome to my website!  I am a 5th year PhD candidate in Computer Science at Johns Hopkins University. My research lies at the intersection of systems and machine learning. Specifically, I look at I/O and data movement bottlenecks in machine learning algorithms. I am fortunate to be advised by Dr Randal Burns and Dr Joshua Vogelstein. During my PhD I spent summers at Meta (2021) and Argonne National Laboratory (2022). Prior to joining JHU, I earned my BS and MS degrees at the International Institute of Information Technology, Bangalore. Contact me at <firstname>@jhu.edu for questions about research or potential collobarations. 
 
 ### Pre-prints
-<ol> B. Wheatman, <li><b>M. Madhyastha</b> and R. Burns. <i> Masked Matrix Multiplication for Emergent Sparsity.</i> Arxiv preprint <a href="https://arxiv.org/pdf/2402.14118" target="_blank">[PDF]</a></li></ol>
+<ol><li> B. Wheatman, <b>M. Madhyastha</b> and R. Burns. <i> Masked Matrix Multiplication for Emergent Sparsity.</i> Arxiv preprint <a href="https://arxiv.org/pdf/2402.14118" target="_blank">[PDF]</a></li></ol>
 
 ### Publications
 <ol>
