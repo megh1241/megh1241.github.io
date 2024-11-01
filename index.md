@@ -9,8 +9,9 @@ Welcome to my website!  I am a 5th year PhD candidate in Computer Science at Joh
   
 ### Publications
 <ol>
-        <li><b>M. Madhyastha</b>, R. Underwood, R. Burns, B. Nicolae. <i> A Lightweight Scalable Learning Model Repository with Fine-Grain Tensor-Level Access.</i> To appear in
-Proceedings of International Conference on Supercomputing (ICS 2023)<a href="https://drive.google.com/file/d/1OWHNll-Gq1OrXRgHdTtePaYDxbHd51ud/view?usp=sharing" target="_blank">[PDF]   </a></li>
+        <li><b>M. Madhyastha</b>, T. Budavari, V. Braverman, J. Vogelstein and R. Burns. <i> T-Rex (Tree-Rectangles): Reformulating Decision Tree Traversal as Hyperrectangle Enclosure.</i> Proceedings of International Conference on Data Engineering (ICDE 2024)  <a href="https://ieeexplore.ieee.org/document/10597696" target="_blank">[PDF]</a>
+ <li><b>M. Madhyastha</b>, R. Underwood, R. Burns, B. Nicolae. <i> A Lightweight Scalable Learning Model Repository with Fine-Grain Tensor-Level Access.</i> 
+Proceedings of International Conference on Supercomputing (ICS 2023)<a href="https://dl.acm.org/doi/10.1145/3577193.3593730" target="_blank">[PDF]   </a></li>
         <li><b>M. Madhyastha</b>, K. Lillaney, J. Browne, J. Vogelstein and R. Burns. <i> BLOCKSET(Block-Aligned Serialized Trees): Reducing Inference Latency for Tree-Ensemble
         Deployment.</i>Proceedings of the Proceedings of The 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining.[KDD 2021]<a href="https://dl.acm.org/doi/pdf/10.1145/3447548.3467368" target="_blank">[PDF]</a></li>
         <li><b>M. Madhyastha</b>, G. Li, V. Strnadova-Neeley, J. Browne, J. Vogelstein, R. Burns and C. Priebe. <i> Geodesic Forests.</i>Proceedings of the Proceedings of The 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining.[KDD 2020]<a href="https://dl.acm.org/doi/pdf/10.1145/3394486.3403094" target="_blank">[PDF]</a></li>
