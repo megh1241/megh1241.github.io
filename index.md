@@ -10,9 +10,8 @@ Welcome to my website!  I am a 5th year PhD candidate in Computer Science at Joh
 ### Pre-prints
 <ol>
  B. Wheatman, <li><b>M. Madhyastha</b> and R. Burns. <i> Masked Matrix Multiplication for Emergent Sparsity.</i> Arxiv preprint <a href="https://arxiv.org/pdf/2402.14118" target="_blank">[PDF]</a></li>
-
-
 </ol>
+
 ### Publications
 <ol>
   R. Underwood, <li><b>M. Madhyastha</b>, R. Burns, B. Nicolae. <i> EvoStore: Towards Scalable Storage of Evolving Learning Models.</i> 
